@@ -5,4 +5,3 @@
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/dressedinblack5/github-pacman/output/pacman-contribution-graph.svg">
 </picture>
 
-Interested in learning
