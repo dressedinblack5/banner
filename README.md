@@ -1,4 +1,3 @@
-![DenjiHead](https://raw.githubusercontent.com/jkdevcode/github-profile-assets/main/imgs/denji_friends.jpg)
 
 <div align="center">
 
@@ -48,13 +47,6 @@ My projects include:
 - **AI Integration:** Local LLM deployments, OpenAI-compatible APIs, and enterprise AI tools
 - **System Automation:** Task scheduling, workflow automation, and cross-platform development
 - **Open Source:** Contributing to development tools, building community platforms, and sharing knowledge
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dressedinblack5&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dressedinblack5&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
 
 ---
 
