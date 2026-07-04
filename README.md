@@ -3,7 +3,7 @@
 
 # 👋🏻 Hi, I'm León
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=F28C52&center=true&vCenter=true&width=800&lines=AI+Agent+Orchestrator+%7C+Personal+Development+Platform+Creator+%F0%9F%9A%80;Building+Scalable+APIs+%26+Backend+Systems+%E2%9A%99%EF%B8%8F;React+%7C+TypeScript+%7C+Frontend+Development+%F0%9F%92%BB;Docker+%7C+CI%2FCD+%7C+Cloud+Deployments+%F0%9F%93%A6;Creating+SaaS+and+Production-Ready+Projects+%F0%9F%94%A5;Building+Community+and+Knowledge+Sharing+%F0%9F%93%9A)](https://github.com/dressedinblack5)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=F28C52&center=true&vCenter=true&width=800&lines=AI+Agent+Orchestrator+%7C+Personal+Development+Platform+Creator+%F0%9F%9A%80;Building+Scalable+APIs+%26+Backend+Systems+%E2%9A%99%EF%B8%8F;Electron+%7C+TypeScript+%7C+Frontend+Development+%F0%9F%92%BB;Docker+%7C+CI%2FCD+%7C+Cloud+Deployments+%F0%9F%93%A6;Creating+SaaS+and+Production-Ready+Projects+%F0%9F%94%A5;Building+Community+and+Knowledge+Sharing+%F0%9F%93%9A)](https://github.com/dressedinblack5)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dressedinblack5&color=F28C52&style=flat-square&label=Profile+Views)](https://github.com/dressedinblack5)
 &nbsp;
