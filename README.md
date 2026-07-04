@@ -17,7 +17,7 @@
 
 Backend Developer and AI Agent Orchestrator focused on building scalable systems and reverse engineering complex protocols.
 
-I enjoy transforming ideas into real-world software, designing maintainable architectures, and creating solutions that solve practical problems. I use AI as a development tool to accelerate workflows while keeping full control over implementation, architecture, and decision-making.
+I enjoy transforming ideas into real-world software, designing maintainable architectures, and creating solutions that solve practical problems.
 
 My projects include:
 - **openaxe**: TUI/CLI AI coding assistant with 15+ LLM providers (Anthropic, OpenAI, Google, etc.) and advanced session management
@@ -33,7 +33,6 @@ My projects include:
 - **Databases:** PostgreSQL, SQLite, Drizzle ORM
 - **Tools:** Git, Docker, CI/CD (GitHub Actions), Bun, Effect v4
 - **Frontend:** SolidJS, Electron, Vue 3
-- **AI/ML:** OpenAI, Anthropic, Google, Groq, Ollama, Claude API
 - **Reverse Engineering:** USB protocol analysis, C++/Rust system programming
 - **Security:** Security-first development, plugin permission systems
 - **Platform:** Linux
