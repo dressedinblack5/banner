@@ -47,6 +47,3 @@ My projects include:
 - **AI Integration:** Local LLM deployments, OpenAI-compatible APIs, and enterprise AI tools
 - **System Automation:** Task scheduling, workflow automation, and cross-platform development
 - **Open Source:** Contributing to development tools, building community platforms, and sharing knowledge
-
----
-username=dressedinblack5&repo=tapitoCAM&theme=tokyonight)](https://github.com/dressedinblack5/tapitoCAM)
